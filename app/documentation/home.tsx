@@ -1,5 +1,5 @@
 export default function Home() {
-  const widgetUrl = `http://localhost:5173/#/snake`;
+  const widgetUrl = `https://niiicolai.github.io/widget-snake-game/#/snake`;
 
   return (
     <div className="max-w-4xl mx-auto p-6 bg-white dark:bg-gray-900">
